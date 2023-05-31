@@ -160,4 +160,7 @@
 
 ### References
 
+----
+
 [Using Post-Processing to improve visuals in Unity](https://www.youtube.com/watch?v=_PzYAbPpK8k&ab_channel=GameDevGuide)
+[unity_post_processing_example](https://github.com/Salmonberry/unity_post_processing_example)
